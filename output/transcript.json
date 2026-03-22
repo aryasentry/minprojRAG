@@ -1,0 +1,1582 @@
+{
+  "video_id": "audio",
+  "segments": [
+    {
+      "segment_id": 0,
+      "start": 0.0,
+      "end": 2.46,
+      "text": "What exactly is Generative AI?",
+      "words": [
+        {
+          "word": " What",
+          "start": 0.0,
+          "end": 0.46
+        },
+        {
+          "word": " exactly",
+          "start": 0.46,
+          "end": 0.84
+        },
+        {
+          "word": " is",
+          "start": 0.84,
+          "end": 1.3
+        },
+        {
+          "word": " Generative",
+          "start": 1.3,
+          "end": 2.08
+        },
+        {
+          "word": " AI?",
+          "start": 2.08,
+          "end": 2.46
+        }
+      ]
+    },
+    {
+      "segment_id": 1,
+      "start": 3.46,
+      "end": 6.56,
+      "text": "When new content is created by artificial intelligence,",
+      "words": [
+        {
+          "word": " When",
+          "start": 3.46,
+          "end": 3.76
+        },
+        {
+          "word": " new",
+          "start": 3.76,
+          "end": 4.02
+        },
+        {
+          "word": " content",
+          "start": 4.02,
+          "end": 4.34
+        },
+        {
+          "word": " is",
+          "start": 4.34,
+          "end": 4.6
+        },
+        {
+          "word": " created",
+          "start": 4.6,
+          "end": 4.96
+        },
+        {
+          "word": " by",
+          "start": 4.96,
+          "end": 5.24
+        },
+        {
+          "word": " artificial",
+          "start": 5.24,
+          "end": 5.72
+        },
+        {
+          "word": " intelligence,",
+          "start": 5.72,
+          "end": 6.56
+        }
+      ]
+    },
+    {
+      "segment_id": 2,
+      "start": 6.92,
+      "end": 8.88,
+      "text": "it's called Generative AI.",
+      "words": [
+        {
+          "word": " it's",
+          "start": 6.92,
+          "end": 7.24
+        },
+        {
+          "word": " called",
+          "start": 7.24,
+          "end": 7.52
+        },
+        {
+          "word": " Generative",
+          "start": 7.52,
+          "end": 8.4
+        },
+        {
+          "word": " AI.",
+          "start": 8.4,
+          "end": 8.88
+        }
+      ]
+    },
+    {
+      "segment_id": 3,
+      "start": 9.82,
+      "end": 12.5,
+      "text": "This could involve generating texts and images,",
+      "words": [
+        {
+          "word": " This",
+          "start": 9.82,
+          "end": 10.04
+        },
+        {
+          "word": " could",
+          "start": 10.04,
+          "end": 10.2
+        },
+        {
+          "word": " involve",
+          "start": 10.2,
+          "end": 10.6
+        },
+        {
+          "word": " generating",
+          "start": 10.6,
+          "end": 10.94
+        },
+        {
+          "word": " texts",
+          "start": 10.94,
+          "end": 11.68
+        },
+        {
+          "word": " and",
+          "start": 11.68,
+          "end": 12.06
+        },
+        {
+          "word": " images,",
+          "start": 12.06,
+          "end": 12.5
+        }
+      ]
+    },
+    {
+      "segment_id": 4,
+      "start": 13.0,
+      "end": 15.2,
+      "text": "as well as videos, music or voices.",
+      "words": [
+        {
+          "word": " as",
+          "start": 13.0,
+          "end": 13.02
+        },
+        {
+          "word": " well",
+          "start": 13.02,
+          "end": 13.2
+        },
+        {
+          "word": " as",
+          "start": 13.2,
+          "end": 13.32
+        },
+        {
+          "word": " videos,",
+          "start": 13.32,
+          "end": 13.6
+        },
+        {
+          "word": " music",
+          "start": 14.1,
+          "end": 14.48
+        },
+        {
+          "word": " or",
+          "start": 14.48,
+          "end": 14.8
+        },
+        {
+          "word": " voices.",
+          "start": 14.8,
+          "end": 15.2
+        }
+      ]
+    },
+    {
+      "segment_id": 5,
+      "start": 15.86,
+      "end": 18.74,
+      "text": "To do this, you describe in a chat dialogue box",
+      "words": [
+        {
+          "word": " To",
+          "start": 15.86,
+          "end": 16.1
+        },
+        {
+          "word": " do",
+          "start": 16.1,
+          "end": 16.24
+        },
+        {
+          "word": " this,",
+          "start": 16.24,
+          "end": 16.52
+        },
+        {
+          "word": " you",
+          "start": 16.74,
+          "end": 16.84
+        },
+        {
+          "word": " describe",
+          "start": 16.84,
+          "end": 17.2
+        },
+        {
+          "word": " in",
+          "start": 17.2,
+          "end": 17.46
+        },
+        {
+          "word": " a",
+          "start": 17.46,
+          "end": 17.54
+        },
+        {
+          "word": " chat",
+          "start": 17.54,
+          "end": 17.78
+        },
+        {
+          "word": " dialogue",
+          "start": 17.78,
+          "end": 18.3
+        },
+        {
+          "word": " box",
+          "start": 18.3,
+          "end": 18.74
+        }
+      ]
+    },
+    {
+      "segment_id": 6,
+      "start": 18.74,
+      "end": 20.42,
+      "text": "what you want the AI to create.",
+      "words": [
+        {
+          "word": " what",
+          "start": 18.74,
+          "end": 18.96
+        },
+        {
+          "word": " you",
+          "start": 18.96,
+          "end": 19.12
+        },
+        {
+          "word": " want",
+          "start": 19.12,
+          "end": 19.28
+        },
+        {
+          "word": " the",
+          "start": 19.28,
+          "end": 19.42
+        },
+        {
+          "word": " AI",
+          "start": 19.42,
+          "end": 19.68
+        },
+        {
+          "word": " to",
+          "start": 19.68,
+          "end": 19.98
+        },
+        {
+          "word": " create.",
+          "start": 19.98,
+          "end": 20.42
+        }
+      ]
+    },
+    {
+      "segment_id": 7,
+      "start": 21.02,
+      "end": 23.12,
+      "text": "This description is called a prompt.",
+      "words": [
+        {
+          "word": " This",
+          "start": 21.02,
+          "end": 21.3
+        },
+        {
+          "word": " description",
+          "start": 21.3,
+          "end": 21.76
+        },
+        {
+          "word": " is",
+          "start": 21.76,
+          "end": 22.14
+        },
+        {
+          "word": " called",
+          "start": 22.14,
+          "end": 22.54
+        },
+        {
+          "word": " a",
+          "start": 22.54,
+          "end": 22.82
+        },
+        {
+          "word": " prompt.",
+          "start": 22.82,
+          "end": 23.12
+        }
+      ]
+    },
+    {
+      "segment_id": 8,
+      "start": 24.48,
+      "end": 28.3,
+      "text": "The Generative AI tools provide answers to all sorts of questions,",
+      "words": [
+        {
+          "word": " The",
+          "start": 24.48,
+          "end": 24.68
+        },
+        {
+          "word": " Generative",
+          "start": 24.68,
+          "end": 25.16
+        },
+        {
+          "word": " AI",
+          "start": 25.16,
+          "end": 25.58
+        },
+        {
+          "word": " tools",
+          "start": 25.58,
+          "end": 26.04
+        },
+        {
+          "word": " provide",
+          "start": 26.04,
+          "end": 26.48
+        },
+        {
+          "word": " answers",
+          "start": 26.48,
+          "end": 27.02
+        },
+        {
+          "word": " to",
+          "start": 27.02,
+          "end": 27.24
+        },
+        {
+          "word": " all",
+          "start": 27.24,
+          "end": 27.4
+        },
+        {
+          "word": " sorts",
+          "start": 27.4,
+          "end": 27.7
+        },
+        {
+          "word": " of",
+          "start": 27.7,
+          "end": 27.84
+        },
+        {
+          "word": " questions,",
+          "start": 27.84,
+          "end": 28.3
+        }
+      ]
+    },
+    {
+      "segment_id": 9,
+      "start": 28.3,
+      "end": 33.2,
+      "text": "summarize complex information and generate diverse ideas quickly.",
+      "words": [
+        {
+          "word": " summarize",
+          "start": 28.3,
+          "end": 29.22
+        },
+        {
+          "word": " complex",
+          "start": 29.22,
+          "end": 29.84
+        },
+        {
+          "word": " information",
+          "start": 29.84,
+          "end": 30.42
+        },
+        {
+          "word": " and",
+          "start": 30.42,
+          "end": 31.14
+        },
+        {
+          "word": " generate",
+          "start": 31.14,
+          "end": 31.46
+        },
+        {
+          "word": " diverse",
+          "start": 31.46,
+          "end": 31.98
+        },
+        {
+          "word": " ideas",
+          "start": 31.98,
+          "end": 32.56
+        },
+        {
+          "word": " quickly.",
+          "start": 32.56,
+          "end": 33.2
+        }
+      ]
+    },
+    {
+      "segment_id": 10,
+      "start": 33.56,
+      "end": 36.88,
+      "text": "Depending on how they're used, they can create short stories,",
+      "words": [
+        {
+          "word": " Depending",
+          "start": 33.56,
+          "end": 33.8
+        },
+        {
+          "word": " on",
+          "start": 33.8,
+          "end": 34.12
+        },
+        {
+          "word": " how",
+          "start": 34.12,
+          "end": 34.4
+        },
+        {
+          "word": " they're",
+          "start": 34.4,
+          "end": 34.74
+        },
+        {
+          "word": " used,",
+          "start": 34.74,
+          "end": 35.18
+        },
+        {
+          "word": " they",
+          "start": 35.46,
+          "end": 35.56
+        },
+        {
+          "word": " can",
+          "start": 35.56,
+          "end": 35.74
+        },
+        {
+          "word": " create",
+          "start": 35.74,
+          "end": 36.04
+        },
+        {
+          "word": " short",
+          "start": 36.04,
+          "end": 36.4
+        },
+        {
+          "word": " stories,",
+          "start": 36.4,
+          "end": 36.88
+        }
+      ]
+    },
+    {
+      "segment_id": 11,
+      "start": 37.28,
+      "end": 41.14,
+      "text": "paintings, pieces of code or even musical compositions.",
+      "words": [
+        {
+          "word": " paintings,",
+          "start": 37.28,
+          "end": 37.58
+        },
+        {
+          "word": " pieces",
+          "start": 38.22,
+          "end": 38.5
+        },
+        {
+          "word": " of",
+          "start": 38.5,
+          "end": 38.7
+        },
+        {
+          "word": " code",
+          "start": 38.7,
+          "end": 39.04
+        },
+        {
+          "word": " or",
+          "start": 39.04,
+          "end": 39.58
+        },
+        {
+          "word": " even",
+          "start": 39.58,
+          "end": 39.88
+        },
+        {
+          "word": " musical",
+          "start": 39.88,
+          "end": 40.38
+        },
+        {
+          "word": " compositions.",
+          "start": 40.38,
+          "end": 41.14
+        }
+      ]
+    },
+    {
+      "segment_id": 12,
+      "start": 41.74,
+      "end": 45.7,
+      "text": "The foundation for this creation lies in large amounts of data",
+      "words": [
+        {
+          "word": " The",
+          "start": 41.74,
+          "end": 42.16
+        },
+        {
+          "word": " foundation",
+          "start": 42.16,
+          "end": 42.66
+        },
+        {
+          "word": " for",
+          "start": 42.66,
+          "end": 42.96
+        },
+        {
+          "word": " this",
+          "start": 42.96,
+          "end": 43.14
+        },
+        {
+          "word": " creation",
+          "start": 43.14,
+          "end": 43.64
+        },
+        {
+          "word": " lies",
+          "start": 43.64,
+          "end": 44.2
+        },
+        {
+          "word": " in",
+          "start": 44.2,
+          "end": 44.54
+        },
+        {
+          "word": " large",
+          "start": 44.54,
+          "end": 44.88
+        },
+        {
+          "word": " amounts",
+          "start": 44.88,
+          "end": 45.14
+        },
+        {
+          "word": " of",
+          "start": 45.14,
+          "end": 45.42
+        },
+        {
+          "word": " data",
+          "start": 45.42,
+          "end": 45.7
+        }
+      ]
+    },
+    {
+      "segment_id": 13,
+      "start": 45.7,
+      "end": 50.0,
+      "text": "that the AI system accesses to identify patterns and similarities.",
+      "words": [
+        {
+          "word": " that",
+          "start": 45.7,
+          "end": 45.96
+        },
+        {
+          "word": " the",
+          "start": 45.96,
+          "end": 46.12
+        },
+        {
+          "word": " AI",
+          "start": 46.12,
+          "end": 46.38
+        },
+        {
+          "word": " system",
+          "start": 46.38,
+          "end": 46.84
+        },
+        {
+          "word": " accesses",
+          "start": 46.84,
+          "end": 47.7
+        },
+        {
+          "word": " to",
+          "start": 47.7,
+          "end": 47.98
+        },
+        {
+          "word": " identify",
+          "start": 47.98,
+          "end": 48.4
+        },
+        {
+          "word": " patterns",
+          "start": 48.4,
+          "end": 49.02
+        },
+        {
+          "word": " and",
+          "start": 49.02,
+          "end": 49.44
+        },
+        {
+          "word": " similarities.",
+          "start": 49.44,
+          "end": 50.0
+        }
+      ]
+    },
+    {
+      "segment_id": 14,
+      "start": 50.8,
+      "end": 53.32,
+      "text": "The content produced by the AI is new.",
+      "words": [
+        {
+          "word": " The",
+          "start": 50.8,
+          "end": 50.88
+        },
+        {
+          "word": " content",
+          "start": 50.88,
+          "end": 51.32
+        },
+        {
+          "word": " produced",
+          "start": 51.32,
+          "end": 51.78
+        },
+        {
+          "word": " by",
+          "start": 51.78,
+          "end": 52.08
+        },
+        {
+          "word": " the",
+          "start": 52.08,
+          "end": 52.22
+        },
+        {
+          "word": " AI",
+          "start": 52.22,
+          "end": 52.54
+        },
+        {
+          "word": " is",
+          "start": 52.54,
+          "end": 52.98
+        },
+        {
+          "word": " new.",
+          "start": 52.98,
+          "end": 53.32
+        }
+      ]
+    },
+    {
+      "segment_id": 15,
+      "start": 53.84,
+      "end": 56.84,
+      "text": "It's often impressive and challenging to distinguish",
+      "words": [
+        {
+          "word": " It's",
+          "start": 53.84,
+          "end": 54.08
+        },
+        {
+          "word": " often",
+          "start": 54.08,
+          "end": 54.36
+        },
+        {
+          "word": " impressive",
+          "start": 54.36,
+          "end": 54.94
+        },
+        {
+          "word": " and",
+          "start": 54.94,
+          "end": 55.56
+        },
+        {
+          "word": " challenging",
+          "start": 55.56,
+          "end": 56.02
+        },
+        {
+          "word": " to",
+          "start": 56.02,
+          "end": 56.36
+        },
+        {
+          "word": " distinguish",
+          "start": 56.36,
+          "end": 56.84
+        }
+      ]
+    },
+    {
+      "segment_id": 16,
+      "start": 56.84,
+      "end": 58.5,
+      "text": "from things humans have made.",
+      "words": [
+        {
+          "word": " from",
+          "start": 56.84,
+          "end": 57.06
+        },
+        {
+          "word": " things",
+          "start": 57.06,
+          "end": 57.36
+        },
+        {
+          "word": " humans",
+          "start": 57.36,
+          "end": 57.82
+        },
+        {
+          "word": " have",
+          "start": 57.82,
+          "end": 58.2
+        },
+        {
+          "word": " made.",
+          "start": 58.2,
+          "end": 58.5
+        }
+      ]
+    },
+    {
+      "segment_id": 17,
+      "start": 59.95,
+      "end": 62.77,
+      "text": "Generative AI can also be misused.",
+      "words": [
+        {
+          "word": " Generative",
+          "start": 59.95,
+          "end": 60.51
+        },
+        {
+          "word": " AI",
+          "start": 60.51,
+          "end": 60.87
+        },
+        {
+          "word": " can",
+          "start": 60.87,
+          "end": 61.33
+        },
+        {
+          "word": " also",
+          "start": 61.33,
+          "end": 61.71
+        },
+        {
+          "word": " be",
+          "start": 61.71,
+          "end": 62.03
+        },
+        {
+          "word": " misused.",
+          "start": 62.03,
+          "end": 62.77
+        }
+      ]
+    },
+    {
+      "segment_id": 18,
+      "start": 63.31,
+      "end": 65.15,
+      "text": "In so-called deep fakes,",
+      "words": [
+        {
+          "word": " In",
+          "start": 63.31,
+          "end": 63.45
+        },
+        {
+          "word": " so",
+          "start": 63.45,
+          "end": 63.73
+        },
+        {
+          "word": "-called",
+          "start": 63.73,
+          "end": 64.15
+        },
+        {
+          "word": " deep",
+          "start": 64.15,
+          "end": 64.63
+        },
+        {
+          "word": " fakes,",
+          "start": 64.63,
+          "end": 65.15
+        }
+      ]
+    },
+    {
+      "segment_id": 19,
+      "start": 65.67,
+      "end": 69.57,
+      "text": "AI is utilized to produce images or videos that seem real.",
+      "words": [
+        {
+          "word": " AI",
+          "start": 65.67,
+          "end": 65.83
+        },
+        {
+          "word": " is",
+          "start": 65.83,
+          "end": 66.25
+        },
+        {
+          "word": " utilized",
+          "start": 66.25,
+          "end": 66.67
+        },
+        {
+          "word": " to",
+          "start": 66.67,
+          "end": 67.01
+        },
+        {
+          "word": " produce",
+          "start": 67.01,
+          "end": 67.23
+        },
+        {
+          "word": " images",
+          "start": 67.23,
+          "end": 67.81
+        },
+        {
+          "word": " or",
+          "start": 67.81,
+          "end": 68.07
+        },
+        {
+          "word": " videos",
+          "start": 68.07,
+          "end": 68.43
+        },
+        {
+          "word": " that",
+          "start": 68.43,
+          "end": 68.79
+        },
+        {
+          "word": " seem",
+          "start": 68.79,
+          "end": 69.15
+        },
+        {
+          "word": " real.",
+          "start": 69.15,
+          "end": 69.57
+        }
+      ]
+    },
+    {
+      "segment_id": 20,
+      "start": 72.52,
+      "end": 76.76,
+      "text": "AI-generated texts are also tough to recognize as machine-made.",
+      "words": [
+        {
+          "word": " AI",
+          "start": 72.52,
+          "end": 72.8
+        },
+        {
+          "word": "-generated",
+          "start": 72.8,
+          "end": 73.5
+        },
+        {
+          "word": " texts",
+          "start": 73.5,
+          "end": 73.9
+        },
+        {
+          "word": " are",
+          "start": 73.9,
+          "end": 74.2
+        },
+        {
+          "word": " also",
+          "start": 74.2,
+          "end": 74.56
+        },
+        {
+          "word": " tough",
+          "start": 74.56,
+          "end": 74.86
+        },
+        {
+          "word": " to",
+          "start": 74.86,
+          "end": 75.08
+        },
+        {
+          "word": " recognize",
+          "start": 75.08,
+          "end": 75.58
+        },
+        {
+          "word": " as",
+          "start": 75.58,
+          "end": 75.92
+        },
+        {
+          "word": " machine",
+          "start": 75.92,
+          "end": 76.32
+        },
+        {
+          "word": "-made.",
+          "start": 76.32,
+          "end": 76.76
+        }
+      ]
+    },
+    {
+      "segment_id": 21,
+      "start": 77.14,
+      "end": 80.5,
+      "text": "Moreover, the AI can provide answers that sound correct",
+      "words": [
+        {
+          "word": " Moreover,",
+          "start": 77.14,
+          "end": 77.38
+        },
+        {
+          "word": " the",
+          "start": 77.74,
+          "end": 77.84
+        },
+        {
+          "word": " AI",
+          "start": 77.84,
+          "end": 78.18
+        },
+        {
+          "word": " can",
+          "start": 78.18,
+          "end": 78.48
+        },
+        {
+          "word": " provide",
+          "start": 78.48,
+          "end": 78.78
+        },
+        {
+          "word": " answers",
+          "start": 78.78,
+          "end": 79.3
+        },
+        {
+          "word": " that",
+          "start": 79.3,
+          "end": 79.56
+        },
+        {
+          "word": " sound",
+          "start": 79.56,
+          "end": 79.96
+        },
+        {
+          "word": " correct",
+          "start": 79.96,
+          "end": 80.5
+        }
+      ]
+    },
+    {
+      "segment_id": 22,
+      "start": 80.5,
+      "end": 81.92,
+      "text": "but are actually incorrect.",
+      "words": [
+        {
+          "word": " but",
+          "start": 80.5,
+          "end": 80.82
+        },
+        {
+          "word": " are",
+          "start": 80.82,
+          "end": 81.04
+        },
+        {
+          "word": " actually",
+          "start": 81.04,
+          "end": 81.48
+        },
+        {
+          "word": " incorrect.",
+          "start": 81.48,
+          "end": 81.92
+        }
+      ]
+    },
+    {
+      "segment_id": 23,
+      "start": 82.56,
+      "end": 84.24,
+      "text": "This is called hallucinating.",
+      "words": [
+        {
+          "word": " This",
+          "start": 82.56,
+          "end": 82.76
+        },
+        {
+          "word": " is",
+          "start": 82.76,
+          "end": 82.9
+        },
+        {
+          "word": " called",
+          "start": 82.9,
+          "end": 83.3
+        },
+        {
+          "word": " hallucinating.",
+          "start": 83.3,
+          "end": 84.24
+        }
+      ]
+    },
+    {
+      "segment_id": 24,
+      "start": 84.66,
+      "end": 88.46,
+      "text": "The quality of what's created depends on both the quality of the data used",
+      "words": [
+        {
+          "word": " The",
+          "start": 84.66,
+          "end": 84.76
+        },
+        {
+          "word": " quality",
+          "start": 84.76,
+          "end": 85.06
+        },
+        {
+          "word": " of",
+          "start": 85.06,
+          "end": 85.32
+        },
+        {
+          "word": " what's",
+          "start": 85.32,
+          "end": 85.62
+        },
+        {
+          "word": " created",
+          "start": 85.62,
+          "end": 85.92
+        },
+        {
+          "word": " depends",
+          "start": 85.92,
+          "end": 86.36
+        },
+        {
+          "word": " on",
+          "start": 86.36,
+          "end": 86.64
+        },
+        {
+          "word": " both",
+          "start": 86.64,
+          "end": 86.82
+        },
+        {
+          "word": " the",
+          "start": 86.82,
+          "end": 87.0
+        },
+        {
+          "word": " quality",
+          "start": 87.0,
+          "end": 87.32
+        },
+        {
+          "word": " of",
+          "start": 87.32,
+          "end": 87.56
+        },
+        {
+          "word": " the",
+          "start": 87.56,
+          "end": 87.66
+        },
+        {
+          "word": " data",
+          "start": 87.66,
+          "end": 87.9
+        },
+        {
+          "word": " used",
+          "start": 87.9,
+          "end": 88.46
+        }
+      ]
+    },
+    {
+      "segment_id": 25,
+      "start": 88.46,
+      "end": 90.42,
+      "text": "and the quality of the prompts given.",
+      "words": [
+        {
+          "word": " and",
+          "start": 88.46,
+          "end": 89.0
+        },
+        {
+          "word": " the",
+          "start": 89.0,
+          "end": 89.1
+        },
+        {
+          "word": " quality",
+          "start": 89.1,
+          "end": 89.38
+        },
+        {
+          "word": " of",
+          "start": 89.38,
+          "end": 89.6
+        },
+        {
+          "word": " the",
+          "start": 89.6,
+          "end": 89.72
+        },
+        {
+          "word": " prompts",
+          "start": 89.72,
+          "end": 90.04
+        },
+        {
+          "word": " given.",
+          "start": 90.04,
+          "end": 90.42
+        }
+      ]
+    },
+    {
+      "segment_id": 26,
+      "start": 93.48,
+      "end": 95.7,
+      "text": "To effectively utilize Generative AI,",
+      "words": [
+        {
+          "word": " To",
+          "start": 93.48,
+          "end": 93.6
+        },
+        {
+          "word": " effectively",
+          "start": 93.6,
+          "end": 94.1
+        },
+        {
+          "word": " utilize",
+          "start": 94.1,
+          "end": 94.78
+        },
+        {
+          "word": " Generative",
+          "start": 94.78,
+          "end": 95.36
+        },
+        {
+          "word": " AI,",
+          "start": 95.36,
+          "end": 95.7
+        }
+      ]
+    },
+    {
+      "segment_id": 27,
+      "start": 96.4,
+      "end": 99.62,
+      "text": "we need to learn how to guide the tools with meaningful prompts",
+      "words": [
+        {
+          "word": " we",
+          "start": 96.4,
+          "end": 96.52
+        },
+        {
+          "word": " need",
+          "start": 96.52,
+          "end": 96.66
+        },
+        {
+          "word": " to",
+          "start": 96.66,
+          "end": 96.84
+        },
+        {
+          "word": " learn",
+          "start": 96.84,
+          "end": 97.06
+        },
+        {
+          "word": " how",
+          "start": 97.06,
+          "end": 97.34
+        },
+        {
+          "word": " to",
+          "start": 97.34,
+          "end": 97.52
+        },
+        {
+          "word": " guide",
+          "start": 97.52,
+          "end": 97.88
+        },
+        {
+          "word": " the",
+          "start": 97.88,
+          "end": 98.08
+        },
+        {
+          "word": " tools",
+          "start": 98.08,
+          "end": 98.38
+        },
+        {
+          "word": " with",
+          "start": 98.38,
+          "end": 98.6
+        },
+        {
+          "word": " meaningful",
+          "start": 98.6,
+          "end": 99.08
+        },
+        {
+          "word": " prompts",
+          "start": 99.08,
+          "end": 99.62
+        }
+      ]
+    },
+    {
+      "segment_id": 28,
+      "start": 99.62,
+      "end": 101.2,
+      "text": "and use them thoughtfully.",
+      "words": [
+        {
+          "word": " and",
+          "start": 99.62,
+          "end": 100.24
+        },
+        {
+          "word": " use",
+          "start": 100.24,
+          "end": 100.48
+        },
+        {
+          "word": " them",
+          "start": 100.48,
+          "end": 100.66
+        },
+        {
+          "word": " thoughtfully.",
+          "start": 100.66,
+          "end": 101.2
+        }
+      ]
+    },
+    {
+      "segment_id": 29,
+      "start": 102.69,
+      "end": 105.59,
+      "text": "Generative AI holds immense potential",
+      "words": [
+        {
+          "word": " Generative",
+          "start": 102.69,
+          "end": 103.33
+        },
+        {
+          "word": " AI",
+          "start": 103.33,
+          "end": 103.73
+        },
+        {
+          "word": " holds",
+          "start": 103.73,
+          "end": 104.33
+        },
+        {
+          "word": " immense",
+          "start": 104.33,
+          "end": 104.89
+        },
+        {
+          "word": " potential",
+          "start": 104.89,
+          "end": 105.59
+        }
+      ]
+    },
+    {
+      "segment_id": 30,
+      "start": 105.59,
+      "end": 107.91,
+      "text": "and can help us in many ways,",
+      "words": [
+        {
+          "word": " and",
+          "start": 105.59,
+          "end": 106.11
+        },
+        {
+          "word": " can",
+          "start": 106.11,
+          "end": 106.23
+        },
+        {
+          "word": " help",
+          "start": 106.23,
+          "end": 106.57
+        },
+        {
+          "word": " us",
+          "start": 106.57,
+          "end": 106.85
+        },
+        {
+          "word": " in",
+          "start": 106.85,
+          "end": 107.07
+        },
+        {
+          "word": " many",
+          "start": 107.07,
+          "end": 107.39
+        },
+        {
+          "word": " ways,",
+          "start": 107.39,
+          "end": 107.91
+        }
+      ]
+    },
+    {
+      "segment_id": 31,
+      "start": 108.25,
+      "end": 110.67,
+      "text": "such as serving as a writing or learning partner.",
+      "words": [
+        {
+          "word": " such",
+          "start": 108.25,
+          "end": 108.45
+        },
+        {
+          "word": " as",
+          "start": 108.45,
+          "end": 108.63
+        },
+        {
+          "word": " serving",
+          "start": 108.63,
+          "end": 108.95
+        },
+        {
+          "word": " as",
+          "start": 108.95,
+          "end": 109.17
+        },
+        {
+          "word": " a",
+          "start": 109.17,
+          "end": 109.27
+        },
+        {
+          "word": " writing",
+          "start": 109.27,
+          "end": 109.59
+        },
+        {
+          "word": " or",
+          "start": 109.59,
+          "end": 109.87
+        },
+        {
+          "word": " learning",
+          "start": 109.87,
+          "end": 110.17
+        },
+        {
+          "word": " partner.",
+          "start": 110.17,
+          "end": 110.67
+        }
+      ]
+    },
+    {
+      "segment_id": 32,
+      "start": 111.17,
+      "end": 113.67,
+      "text": "However, the AI should do the hard work",
+      "words": [
+        {
+          "word": " However,",
+          "start": 111.17,
+          "end": 111.49
+        },
+        {
+          "word": " the",
+          "start": 111.77,
+          "end": 111.89
+        },
+        {
+          "word": " AI",
+          "start": 111.89,
+          "end": 112.29
+        },
+        {
+          "word": " should",
+          "start": 112.29,
+          "end": 112.67
+        },
+        {
+          "word": " do",
+          "start": 112.67,
+          "end": 112.91
+        },
+        {
+          "word": " the",
+          "start": 112.91,
+          "end": 113.03
+        },
+        {
+          "word": " hard",
+          "start": 113.03,
+          "end": 113.31
+        },
+        {
+          "word": " work",
+          "start": 113.31,
+          "end": 113.67
+        }
+      ]
+    },
+    {
+      "segment_id": 33,
+      "start": 113.67,
+      "end": 116.51,
+      "text": "and humans should be responsible for the facts.",
+      "words": [
+        {
+          "word": " and",
+          "start": 113.67,
+          "end": 114.11
+        },
+        {
+          "word": " humans",
+          "start": 114.11,
+          "end": 114.49
+        },
+        {
+          "word": " should",
+          "start": 114.49,
+          "end": 114.85
+        },
+        {
+          "word": " be",
+          "start": 114.85,
+          "end": 115.01
+        },
+        {
+          "word": " responsible",
+          "start": 115.01,
+          "end": 115.57
+        },
+        {
+          "word": " for",
+          "start": 115.57,
+          "end": 115.97
+        },
+        {
+          "word": " the",
+          "start": 115.97,
+          "end": 116.09
+        },
+        {
+          "word": " facts.",
+          "start": 116.09,
+          "end": 116.51
+        }
+      ]
+    }
+  ]
+}
